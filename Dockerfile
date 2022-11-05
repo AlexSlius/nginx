@@ -1,4 +1,4 @@
-FROM arquivei/nginx-vts
+FROM nginx
 
 COPY nginx.conf /etc/nginx/nginx.conf
 
